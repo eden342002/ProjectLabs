@@ -1,4 +1,4 @@
-# 23-CC-Task1
+# ProjectLabs
 Have to create/launch Application using Terraform
 
 1. Create the key and security group which allow the port 80.
@@ -35,4 +35,4 @@ To go inside directory where " .tf" file is stored.
   # terraform validate
   #terraform apply -auto-approve
 
-*Output is being attaches after ruuning this file:-"output.png
+*Output is being attached after ruuning this file:-"output.png
